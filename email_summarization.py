@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
+"""
+Aneesh Chopra & Sayon Palit
+"""
 """
 Module for E-mail Summarization
 
